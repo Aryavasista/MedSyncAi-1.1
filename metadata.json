@@ -1,0 +1,8 @@
+{
+  "name": "MedSync AI",
+  "description": "Intelligent Medication Management with AI-powered prescription scanning, smart scheduling, and health assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
